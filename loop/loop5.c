@@ -3,7 +3,7 @@ void main()
 {
     int i,j;
     char a=97;
-    for ( i = 0; i <=5; i++)
+    for ( i = 0; i <=7; i++)
     {
        for ( j = 1; j <i; j++)
        {
